@@ -1,5 +1,5 @@
 # Secret Agent Communication Terminal
-COP2805 Class Project
+COP2805 Class Project:
 A simple **Java client-server decryption program** with a Swing GUI.  
 The client loads encrypted text from a file and sends it to the server,  
 which processes the message using a Caesar cipher and returns the result.
